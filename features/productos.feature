@@ -1,4 +1,3 @@
-# language: es
 Característica: Pruebas de Endpoints de la API de Productos
   Como usuario de la API
   Quiero gestionar la entidad Productos
